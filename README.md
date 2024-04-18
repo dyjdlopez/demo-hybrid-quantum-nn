@@ -1,1 +1,1 @@
-# demo-hybrid-quantum-nn
+# OneQuantum PH Hybrid Quantum Neural Network Demo
